@@ -14,15 +14,15 @@ April (25.04.2023)
 
 
 # Key Features
-➖ MULTI DEXS SUPPORTED:
-➖ PancakeSwap – PantherSwap – BakerySwap – BiSwap (BNB)
-➖ QuickSwap (MATIC)
-➖ KoffeeSwap – KuSwap (KCS)
-➖ UniSwap – SushiSwap (ETH)
-➖ CherrySwap (Okex chain)
-➖ Pangolin – Traderjoe (AVAX)
-➖ SpookySwap – SpiritSwap (Fantom)
-➖ The bot has a Stop loss.
-➖ Automatic sale at the desired price per token.
-➖ Automatic purchase of a token at the desired price.
-➖ MULTIPLE NETWORK SUPPORTED BNB, ETH, MATIC, KCS, OKEX AND AVAX
+* MULTI DEXS SUPPORTED:
+* PancakeSwap – PantherSwap – BakerySwap – BiSwap (BNB)
+* QuickSwap (MATIC)
+* KoffeeSwap – KuSwap (KCS)
+* UniSwap – SushiSwap (ETH)
+* CherrySwap (Okex chain)
+* Pangolin – Traderjoe (AVAX)
+* SpookySwap – SpiritSwap (Fantom)
+* The bot has a Stop loss.
+* Automatic sale at the desired price per token.
+* Automatic purchase of a token at the desired price.
+* MULTIPLE NETWORK SUPPORTED BNB, ETH, MATIC, KCS, OKEX AND AVAX
